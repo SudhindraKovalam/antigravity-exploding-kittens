@@ -1,0 +1,22 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+.mvn/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Node (in case of root node usage)
+node_modules/
+dist/
